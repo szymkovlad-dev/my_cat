@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f78ef21-fe9d-4337-9dc4-be84606b0b0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MyCat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/CACHEDIR.TAG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/bin/python" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/bin/python3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/bin/python3.12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/_virtualenv.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/_virtualenv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Images/Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Images/coin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Images/dragon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Images/dronPlusCat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/Images/droneflying1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/fonds/AttackGraffiti.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sounds/coin_sound.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sounds/ftd_background_music.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sounds/miss_sound.wav" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="37LJTx0ABJ2DDEsoqCqGbJl99o5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/wsh/PycharmProjects/MyCat/resources/Images"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/Images" />
+      <recent name="$PROJECT_DIR$/resources/fonds" />
+      <recent name="$PROJECT_DIR$/resources/sounds" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-03e874896e21-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23892.439" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f78ef21-fe9d-4337-9dc4-be84606b0b0d" name="Changes" comment="" />
+      <created>1766676430538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766676430538</updated>
+    </task>
+    <servers />
+  </component>
+</project>

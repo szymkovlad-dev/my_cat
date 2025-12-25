@@ -4,30 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f78ef21-fe9d-4337-9dc4-be84606b0b0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MyCat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/CACHEDIR.TAG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/bin/python" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/bin/python3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/bin/python3.12" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/_virtualenv.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/lib/python3.12/site-packages/_virtualenv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Images/Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Images/coin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Images/dragon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Images/dronPlusCat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Images/droneflying1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/fonds/AttackGraffiti.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sounds/coin_sound.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sounds/ftd_background_music.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/sounds/miss_sound.wav" afterDir="false" />
-    </list>
+    <list default="true" id="2f78ef21-fe9d-4337-9dc4-be84606b0b0d" name="Changes" comment="Cat test XD" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "szymkovlad-dev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/szymkovlad-dev/my_cat",
+    "accountId": "6775be67-e600-4c57-912d-f5df5bb5c284"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
@@ -87,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1766676430538</updated>
     </task>
+    <task id="LOCAL-00001" summary="Cat test XD">
+      <option name="closed" value="true" />
+      <created>1766686954670</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1766686954670</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cat test XD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cat test XD" />
   </component>
 </project>

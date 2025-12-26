@@ -37,7 +37,7 @@ weight_text = font.render("Weight: " + str(weight) + "KG",True, GREEN, DARK_GREE
 weight_text_rect = weight_text.get_rect()
 weight_text_rect.topleft = (10,10)
 
-title_text = font.render("My cat",True, GREEN, WHITE)
+title_text = font.render("My cat",True, GREEN, DARK_GREEN)
 title_text_rect = title_text.get_rect()
 title_text_rect.centerx = WINDOW_WIDTH // 2
 title_text_rect.centery = 20
@@ -93,10 +93,10 @@ while running:
         player_rect.y -= PLAYER_VELOCITY
     if keys [pygame.K_DOWN] and player_rect.bottom < WINDOW_HIGH :
         player_rect.y += PLAYER_VELOCITY
-    # if keys[pygame.K_RIGHT] and player_rect.right > WINDOW_WIDTH:
-    #     player_rect.x += PLAYER_VELOCITY
-    # if keys[pygame.K_LEFT] and player_rect.bottom < 0:
-    #     player_rect.x -= PLAYER_VELOCITY
+    if keys[pygame.K_RIGHT] and player_rect.right < WINDOW_WIDTH:
+        player_rect.x += PLAYER_VELOCITY
+    if keys[pygame.K_LEFT] and player_rect.left > 0:
+        player_rect.x -= PLAYER_VELOCITY
 
     #move the fishy
     if fish_rect.x < 0:
@@ -130,7 +130,8 @@ while running:
         is_paused = True
         while is_paused:
             for event in pygame.event.get():
-                if event.type == pygame.K_DOWN:
+                #Check if game is paused
+                if event.type == pygame.KEYDOWN:
                     weight = 0
                     player_lives = PLAYER_STARTING_LIVES
                     player_lives_rect.y = WINDOW_HIGH //2

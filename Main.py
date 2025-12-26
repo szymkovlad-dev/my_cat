@@ -93,10 +93,10 @@ while running:
         player_rect.y -= PLAYER_VELOCITY
     if keys [pygame.K_DOWN] and player_rect.bottom < WINDOW_HIGH :
         player_rect.y += PLAYER_VELOCITY
-    if keys[pygame.K_RIGHT] and player_rect.right < WINDOW_WIDTH:
-        player_rect.x += PLAYER_VELOCITY
-    if keys[pygame.K_LEFT] and player_rect.left > 0:
-        player_rect.x -= PLAYER_VELOCITY
+    #if keys[pygame.K_RIGHT] and player_rect.right < WINDOW_WIDTH:
+        #player_rect.x += PLAYER_VELOCITY
+    #if keys[pygame.K_LEFT] and player_rect.left > 0:
+        #player_rect.x -= PLAYER_VELOCITY
 
     #move the fishy
     if fish_rect.x < 0:
